@@ -1,8 +1,12 @@
-body { font-size: 16px; line-height: 1.8; color: #6c757d; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+body { font-size: 16px; 
+  line-height: 1.8; 
+  color: #6c757d; 
+  font-family: 'Ubuntu', sans-serif;
+}
 
-::-moz-selection { background: yellow; }
+::-moz-selection { background: #FFEB19; }
 
-::selection { background: yellow; }
+::selection { background: #FFEB19; }
 
 h1, h2, h3, h4, h5 { color: #000; }
 
@@ -83,9 +87,14 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .templateux-hero, .intro { height: 90vh; min-height: 700px; }
 
-.templateux-hero h1, .intro h1 { color: #000; font-size: 70px; }
+.templateux-hero h1, .intro h1 { 
+  color: #000; 
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: 40px; 
+}
 
-@media (max-width: 991.98px) { .templateux-hero h1, .intro h1 { font-size: 36px; } }
+@media (max-width: 991.98px) { .templateux-hero h1, .intro h1 { font-size: 20px; } }
 
 .templateux-portfolio-overlap { position: relative; margin-top: -100px; }
 
@@ -145,7 +154,7 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .project:hover .project-hover .project-hover-inner span, .project:hover .project-hover .post-hover-inner span, .project:hover .post-hover .project-hover-inner span, .project:hover .post-hover .post-hover-inner span, .project:focus .project-hover .project-hover-inner span, .project:focus .project-hover .post-hover-inner span, .project:focus .post-hover .project-hover-inner span, .project:focus .post-hover .post-hover-inner span, .post:hover .project-hover .project-hover-inner span, .post:hover .project-hover .post-hover-inner span, .post:hover .post-hover .project-hover-inner span, .post:hover .post-hover .post-hover-inner span, .post:focus .project-hover .project-hover-inner span, .post:focus .project-hover .post-hover-inner span, .post:focus .post-hover .project-hover-inner span, .post:focus .post-hover .post-hover-inner span { bottom: 0; visibility: visible; opacity: 1; }
 
-.templateux-footer { padding: 7em 0; border-top: 1px solid #F4F4F4; }
+.templateux-footer { padding: 4em 0; border-top: 1px solid #F4F4F4; }
 
 .templateux-footer .container-fluid { max-width: 100%; }
 
