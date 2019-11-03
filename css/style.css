@@ -228,7 +228,7 @@ textarea.form-control { height: inherit; }
 
 .work-detail { margin-bottom: 50px; }
 
-.work-detail .caption { display: block; text-transform: uppercase; font-size: 15px; color: #ccc; }
+.work-detail .caption { display: block; text-transform: uppercase; font-size: 15px; color: #AFAFAF; }
 
 .work-detail strong { font-weight: normal; color: #000; }
 
@@ -413,4 +413,9 @@ textarea.form-control { height: inherit; }
 
 .color-txt {
   color: #6A3BD6;
+  font-weight: 800;
+}
+
+.color-title {
+  color: #AFAFAF;
 }
