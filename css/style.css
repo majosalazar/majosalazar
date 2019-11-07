@@ -89,8 +89,11 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .templateux-hero h1, .intro h1 { 
   color: #000; 
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 600;
+  font-family: 'Ubuntu', sans-serif;
+  /*
+  font-family: 'Nunito', sans-serif;
+  */
+  font-weight: 400;
   font-size: 40px; 
 }
 
