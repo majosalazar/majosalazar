@@ -422,3 +422,7 @@ textarea.form-control { height: inherit; }
 .color-title {
   color: #AFAFAF;
 }
+
+.title-center {
+  text-align: center;
+}
