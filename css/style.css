@@ -431,3 +431,7 @@ textarea.form-control { height: inherit; }
   color: #999999;
   font-weight: 600;
 }
+
+.gif-width {
+  width: 400px;
+}
