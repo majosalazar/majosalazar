@@ -435,3 +435,7 @@ textarea.form-control { height: inherit; }
 .gif-width {
   width: 400px;
 }
+
+.resumen-ph {
+  width: 80%;
+}
