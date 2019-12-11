@@ -219,7 +219,7 @@ textarea.form-control { height: inherit; }
 
 #map { height: 700px; width: 100%; }
 
-.testimony { padding: 7em 0; background: #f7f7f7; }
+.testimony { padding: 4em 0; background: #f7f7f7; }
 
 .testimony blockquote { font-size: 24px; font-weight: 300; }
 
