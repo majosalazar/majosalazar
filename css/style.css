@@ -1270,9 +1270,3 @@ textarea.form-control {
   width: 80%;
 }
 
-.fondo {
-  min-height: 150px;
-  background-position: center center;
-  background-size: cover;
-  z-index: 5;
-}
