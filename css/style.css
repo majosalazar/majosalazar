@@ -1271,3 +1271,9 @@ textarea.form-control {
   width: 80%;
 }
 
+@media screen and (max-width: 980px){
+  .portada-img{
+   display: none;
+  }
+}
+
